@@ -1,0 +1,9 @@
+<?php
+define('DB_HOST','127.0.0.1');
+define('DB_USER','root');
+define('DB_PSWD','');
+define('DB_NAME','article');
+define('DB_PORT','8082');
+define('DB_TYPE','mysql');
+define('DB_CHARSET','utf8');
+?>
